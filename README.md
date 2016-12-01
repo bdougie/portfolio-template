@@ -11,5 +11,9 @@ A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and 
 
 [Using Type](https://rohanchandra.github.io/project/type/)
 
+## Deploy
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bdougie/portfolio-template)
+
 ## License
 The MIT License (MIT)
